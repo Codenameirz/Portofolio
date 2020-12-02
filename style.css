@@ -82,7 +82,60 @@ body{
     text-decoration: none;
     color: rgb(150, 150, 150);
 }
-i{
-    color: white;
+.btn-github{
+    height: 80px;
+    width: 80px;
     margin: auto;
+    border-radius: 50%;
+    border: none;
+}
+.btn-github a{
+    color: black;
+}
+.btn-github a i{
+    font-size: 64px;
+}
+.btn-github:hover{
+    background: black;
+}
+.btn-github a:hover{
+    color: white;
+}
+.btn-instagram{
+    height: 80px;
+    width: 80px;
+    margin: auto;
+    border-radius: 50%;
+    border: none;
+}
+.btn-instagram a{
+    color: black;
+}
+.btn-instagram a i{
+    font-size: 64px;
+}
+.btn-instagram:hover{
+    background: #833AB4;
+}
+.btn-instagram a:hover{
+    color: white;
+}
+.btn-telegram{
+    height: 80px;
+    width: 80px;
+    margin: auto;
+    border-radius: 50%;
+    border: none;
+}
+.btn-telegram a{
+    color: black;
+}
+.btn-telegram a i{
+    font-size: 64px;
+}
+.btn-telegram:hover{
+    background: #0088CC;
+}
+.btn-telegram a:hover{
+    color: white;
 }
